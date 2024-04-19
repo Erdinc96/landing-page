@@ -1,0 +1,55 @@
+.body{
+    background-color: rgba(190, 176, 105, 0.362);
+    margin-left: auto;
+    max-width: 600ch;
+}
+
+.why{
+    text-align: center;
+    list-style: none;
+    }
+
+.header2{
+    text-align: center;
+    text-decoration: underline brown;
+    letter-spacing: 0.5px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(217, 146, 40);
+    border-top: 10px solid brown;
+    border-bottom: 10px solid brown;
+}
+
+.para1{ 
+    text-align: center; border: 2px solid ; border-radius: 100px; border-style: outset;
+
+}
+
+.img1{
+    max-width: 400px; border-radius: 50px;
+    margin-left: 7rem;
+}
+
+.img2{
+    max-width: 400px; border-radius: 50px;
+    margin-left: 7rem;
+}
+
+.img3{
+    max-width: 400px; border-radius: 50px;
+    margin-left: 7rem;
+}
+
+.img4{
+    max-width: 400px; border-radius: 50px;
+    margin-left: 7rem; 
+}
+
+.contact{
+    border: 2px solid rgb(168, 47, 47);
+    border-width: 10px;
+    border-radius: 50px;
+    text-align: center;
+}
